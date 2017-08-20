@@ -657,10 +657,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   componentsToDisable:
   - {fileID: 114771873283128850}
-  - {fileID: 114678123683937368}
-  - {fileID: 114695119914105118}
-  - {fileID: 114183855744701672}
   - {fileID: 20570017694794570}
+  - {fileID: 81357028223885790}
+  - {fileID: 114183855744701672}
+  - {fileID: 0}
 --- !u!114 &114533778490290316
 MonoBehaviour:
   m_ObjectHideFlags: 1
